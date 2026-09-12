@@ -4,7 +4,7 @@ const gulp = require("gulp");
 const webpack = require("webpack-stream");
 const browsersync = require("browser-sync");
 
-const dist = "./dist/";
+const dist = "./docs/";
 // const dist = "c:\xampp\htdocs\Udemy\webIvan\js\les221-sendFrom";
 // const dist = "c:/xampp/htdocs/Udemy/webIvan/js/les223-calc";
 
